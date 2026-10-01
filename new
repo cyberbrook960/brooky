@@ -1,0 +1,14 @@
+#!/bin/bash
+
+
+file_function {
+  file_name=$*
+     if [-f 'fefnefefi'] 
+       then
+         echo 'this are the files in $file_name: '
+            else 
+               echo 'no such file. creating one...'
+                  touch '$new_config_file'
+
+}
+         
